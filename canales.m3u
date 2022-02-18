@@ -1,0 +1,30 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-logo="https://storage.googleapis.com/codigo_bucket/wp-content/uploads/2016/06/13346669_1174860755869071_7047790150589259625_n.png" ,America
+https://us-b4-p-e-qg12.cdn.mdstrm.com/live-stream-secure/6099b04d9418ac082441dd74/publish/media_2500.m3u8
+#EXTINF:-1 tvg-logo="" ,Latina
+https://mdstrm.com/live-stream-playlist/5ce7109c7398b977dc0744cd.m3u8
+#EXTINF:-1 tvg-logo="" ,Panamericana
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.dailymotion.com/PanamericanaPTV
+#EXTINF:-1 tvg-logo="" ,Panamericana 2
+https://cdnhd.iblups.com/hls/ptv2.m3u8
+#EXTINF:-1 tvg-logo="" ,ATV
+https://d2tr4gdfol9ja.cloudfront.net/atv/smil:atv.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="" ,ATV +
+https://d2tr4gdfol9ja.cloudfront.net/atv/smil:atv-mas.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="" ,Tv PERU
+https://cdnh8.iblups.com/hls/R9WtilpKKB.m3u8
+#EXTINF:-1 tvg-logo="" ,TV PERU INTERNACIONAL
+http://cdnh4.iblups.com/hls/irtp.m3u8
+#EXTINF:-1 tvg-logo="" ,TvPeru Noticias
+https://cdnh8.iblups.com/hls/RMuwrdk7M9.m3u8
+#EXTINF:-1 tvg-logo="" ,Exitosa
+https://cu.onliv3.com/livevd1/user2.m3u8
+#EXTINF:-1 tvg-logo="" ,Willax
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.dailymotion.com/WillaxTV
+#EXTINF:-1 tvg-logo="" ,RPP
+http://38.131.11.9:1080/play/a0d8
+#EXTINF:-1 tvg-logo="" ,AsiriTV
+https://video2.lhdserver.es/asiritv/live.m3u8
+#EXTINF:-1 tvg-logo="" ,Tv Publica
+http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/user/TVPublicaArgentina/live
